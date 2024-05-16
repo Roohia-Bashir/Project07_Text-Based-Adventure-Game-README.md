@@ -6,13 +6,10 @@ Instructions:
 
 Install dependencies using npm.
 
-bash
-Copy code
-npm install
+Copy code:
+npm install rs265_text-based-adventure-game
 To start the game, use the following command:
-
-bash
-Copy code
+Copy code:
 npx rs265_text-based-adventure-game
 
 Follow the on-screen prompts to guide the rabbit through its adventure, collecting fruits, earning points, and uncovering treasures along the way.
